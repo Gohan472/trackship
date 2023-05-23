@@ -23,21 +23,20 @@ TrackShip is a comprehensive shipment tracking and management service that simpl
 To use TrackShip, follow these steps:
 
 1. Clone the repository:
-   ```shell
-   git clone https://github.com/your-username/trackship.git
-   ```
+ ```shell
+ git clone https://github.com/your-username/trackship.git
+ ```
 2. Install the dependencies:
-  ```cd trackship
-  npm install
+ ```cd trackship
+ npm install
   ```
-3.Configure the environment variables:
-cp .env.example .env
+3. Configure the environment variables:
+```cp .env.example .env
+```
 
-
-4.Start the application:
-npm start
-
-
+4. Start the application:
+```npm start
+```
 
 **Section 4: Documentation**
 Documentation
